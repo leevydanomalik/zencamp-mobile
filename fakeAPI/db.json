@@ -1,0 +1,63 @@
+{
+  "orderCustomer": [
+    {
+      "id": 2,
+      "kimap": "A076102545",
+      "name": "Mesrania2t OB",
+      "uom": "Drum",
+      "qty": "10",
+      "description": "Mudah terbakar ",
+      "date": "30 maret 2021",
+      "status": "Paid"
+    },
+    {
+      "id": 3,
+      "kimap": "A076102545",
+      "name": "Mesrania2t OB",
+      "uom": "Drum",
+      "qty": "20",
+      "description": "Mudah terbakar ",
+      "date": "30 maret 2020",
+      "status": "Paid"
+    },
+    {
+      "id": 5,
+      "kimap": "A276102625",
+      "name": "Mesran SPR",
+      "uom": "Box",
+      "qty": "15",
+      "description": "Mudah terbakar",
+      "date": "22 april 2021",
+      "status": "Unpaid",
+      "price": 50000
+    },
+    {
+      "id": 6,
+      "kimap": "A276102625",
+      "name": "Mesran SPR",
+      "uom": "Box",
+      "qty": "30",
+      "description": "Mudah terbakar",
+      "date": "09 april 2021",
+      "status": "Paid",
+      "price": 50000
+    },
+    {
+      "id": 7,
+      "kimap": "A072101645",
+      "name": "Fastron Gold",
+      "uom": "PL",
+      "qty": "30",
+      "description": "Mudah terbakar ",
+      "date": "27 april 2021",
+      "status": "Unpaid",
+      "price": 69000
+    }
+  ],
+  "customerData": {
+    "name": "",
+    "orderFrom": "Warehouse A",
+    "orderTo": "Warehouse B",
+    "noTelp": "087785172141 "
+  }
+}
